@@ -7,9 +7,9 @@ import (
 )
 
 const (
-	ExpirationTime = 60
-	Secret         = "ijfow34f49129"
-) // 60 minutes
+	ExpirationTime = 60 // unit: minute
+	Secret         = "tangthinker"
+)
 
 func GenerateJWT(userId string) (string, error) {
 

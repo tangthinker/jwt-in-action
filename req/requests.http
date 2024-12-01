@@ -1,0 +1,8 @@
+
+
+GET http://{{url}}/login/tangthinker
+
+###
+
+GET http://{{url}}/users/get/tangthinker
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMwNDk4NjIsImp0aSI6InRhbmd0aGlua2VyIiwiaWF0IjoxNzMzMDQ2MjYyfQ.gDSyVseoCOd-KY0S984ph060g4PuIy9XoydKqy1ERvg
